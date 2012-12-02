@@ -3,3 +3,7 @@
 build
 docs
 *.egg-info
+
+.*
+!.gitignore
+
